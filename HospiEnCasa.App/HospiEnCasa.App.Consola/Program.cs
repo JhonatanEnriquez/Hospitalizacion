@@ -6,7 +6,7 @@ namespace HospiEnCasa.App.Consola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo! Usaremos Entity Framework");
+            Console.WriteLine("Bienvenido a HospiEnCasa G45");
         }
     }
 }
