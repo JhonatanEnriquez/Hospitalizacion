@@ -1,0 +1,9 @@
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.deps.json
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+F:\MIN TIC\CICLO 3\FUNDAMENTOS DE PROGRAMACION\C#\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
